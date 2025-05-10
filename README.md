@@ -8,5 +8,5 @@ PAD NO.	|PAD NAME	   |I/O	| FUNCTION
 4	      |   GND		   |    | Ground
 5	      |   DI (IO0) | I/O|	Data Input (Data Input Output 0)(1)
 6	      |   CLK	     | I	|  Serial Clock Input
-7	      |   /HOLD or /RESET (IO3)|	I/O	Hold or Reset Input (Data Input Output 3)(2)
+7	      |   /HOLD or /RESET (IO3)|	I/O |	Hold or Reset Input (Data Input Output 3)(2)
 8       | 	 VCC		 |    |  Power Supply
